@@ -10,10 +10,15 @@ I build scalable, event-driven backend systems with **C# and .NET**. Currently w
 ### 🛠️ Tech Stack
 
 **Backend:** C#, .NET 8, ASP.NET Core, EF Core, Dapper, MediatR, gRPC, SignalR, REST, SOAP
+
 **Architecture:** Microservices, DDD, CQRS, Event-Driven Architecture, Clean Architecture
+
 **Messaging:** MassTransit, RabbitMQ, Azure Service Bus, Polly
+
 **AI & LLM:** RAG, Azure OpenAI / AI Foundry, Claude Agent SDK, Embeddings, Vector Search
+
 **Data:** PostgreSQL, pgvector, PostGIS, Redis, Elasticsearch
+
 **Cloud & DevOps:** Azure (App Service, Functions, Container Apps, Blob Storage, Static Web Apps), Docker, GitHub Actions
 
 ---
